@@ -1,4 +1,3 @@
-
 public class reto1 {
     public static String compararFranquicia(int pTiempo, int pCapital, double pInteres){
         double interesSimple = pCapital*pInteres*pTiempo;
